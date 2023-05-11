@@ -1,0 +1,106 @@
+{
+    "TypeOfCollection": "database",
+    "Pokemon": [
+        {
+            "abilities": "Overgrow",
+            "caught": false,
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "moves": [
+                "growth",
+                "leech seed",
+                "vine whip",
+                "tackle"
+            ],
+            "name": "bulbasaur",
+            "hp": 45,
+            "attacklevel": 49,
+            "id": 1,
+            "evolution": "ivySaur",
+            "exp": 1,
+            "defenselevel": 49,
+            "speed": 45
+        },
+        {
+            "abilities": "Overgrow",
+            "caught": false,
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "moves": [
+                "tackle",
+                "growth",
+                "poison powder",
+                "seed bomb"
+            ],
+            "name": "ivysaur",
+            "hp": 60,
+            "attacklevel": 62,
+            "id": 2,
+            "evolution": "venusaur",
+            "exp": 142,
+            "defenselevel": 63,
+            "speed": 60
+        },
+        {
+            "abilities": "Blaze",
+            "caught": false,
+            "types": ["fire"],
+            "moves": [
+                "growl",
+                "scratch",
+                "ember",
+                "smokescreen"
+            ],
+            "name": "charmander",
+            "hp": 42,
+            "attacklevel": 52,
+            "id": 3,
+            "evolution": "charmeleon",
+            "exp": 62,
+            "defenselevel": 43,
+            "speed": 65
+        },
+        {
+            "abilities": "Blaze",
+            "caught": false,
+            "types": ["Fire"],
+            "moves": [
+                "ember",
+                "growl",
+                "fire fang",
+                "slash"
+            ],
+            "name": "charmeleon",
+            "hp": 58,
+            "attacklevel": 64,
+            "id": 4,
+            "evolution": "charizard",
+            "exp": 142,
+            "defenselevel": 58,
+            "speed": 80
+        },
+        {
+            "abilities": "Torrent",
+            "caught": false,
+            "types": ["water"],
+            "moves": [
+                "tackle",
+                "tail whip",
+                "water gun",
+                "rapid spin"
+            ],
+            "name": "squirtle",
+            "hp": 44,
+            "attacklevel": 48,
+            "id": 7,
+            "evolution": "wartortle",
+            "exp": 63,
+            "defenselevel": 65,
+            "speed": 43
+        }
+    ]
+}

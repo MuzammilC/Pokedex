@@ -1,0 +1,134 @@
+{
+    "TypeOfCollection": "roster",
+    "Pokemon": [
+        {
+            "abilities": "Blaze",
+            "caught": true,
+            "types": ["fire"],
+            "moves": [
+                "growl",
+                "scratch",
+                "ember",
+                "smokescreen"
+            ],
+            "name": "charmander",
+            "hp": 42,
+            "attacklevel": 52,
+            "id": 3,
+            "evolution": "charmeleon",
+            "exp": 62,
+            "defenselevel": 43,
+            "speed": 65
+        },
+        {
+            "abilities": "Overgrow",
+            "caught": true,
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "moves": [
+                "growth",
+                "leech seed",
+                "vine whip",
+                "tackle"
+            ],
+            "name": "bulbasaur",
+            "hp": 45,
+            "attacklevel": 49,
+            "id": 1,
+            "evolution": "ivySaur",
+            "exp": 1,
+            "defenselevel": 49,
+            "speed": 45
+        },
+        {
+            "abilities": "lrgldk",
+            "caught": true,
+            "types": [
+                "white",
+                "black"
+            ],
+            "moves": [
+                "jump",
+                "kill",
+                "njksje",
+                "efsesf"
+            ],
+            "name": "Ash",
+            "hp": 100,
+            "attacklevel": 2323,
+            "id": 2332,
+            "evolution": "ktlkfgh",
+            "exp": 100000,
+            "defenselevel": 2332,
+            "speed": 2222
+        },
+        {
+            "abilities": " sfv",
+            "caught": true,
+            "types": [
+                "afrt",
+                "rgtes"
+            ],
+            "moves": [
+                "as",
+                "daf",
+                "saf",
+                "sher"
+            ],
+            "name": "Taurus",
+            "hp": 13,
+            "attacklevel": 56,
+            "id": 22,
+            "evolution": "none",
+            "exp": 34,
+            "defenselevel": 34,
+            "speed": 45
+        },
+        {
+            "abilities": "vn",
+            "caught": true,
+            "types": [
+                "rwk",
+                "rfnj"
+            ],
+            "moves": [
+                "vnjf",
+                "vfndj",
+                "mkff",
+                "dskj"
+            ],
+            "name": "Fletchling",
+            "hp": 65,
+            "attacklevel": 34,
+            "id": 57,
+            "evolution": "Fletchinder",
+            "exp": 24,
+            "defenselevel": 45,
+            "speed": 42
+        },
+        {
+            "abilities": "bn",
+            "caught": true,
+            "types": [
+                "shxjhd",
+                "whedxih"
+            ],
+            "moves": [
+                "shxj",
+                "wsh",
+                "wsjdix",
+                "wdhx"
+            ],
+            "name": "Thanos",
+            "hp": 10000000,
+            "attacklevel": 1000000000,
+            "id": 12,
+            "evolution": "thanos2",
+            "exp": 10000,
+            "defenselevel": 1,
+            "speed": 100000
+        }
+    ]
+}

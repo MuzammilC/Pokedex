@@ -1,0 +1,46 @@
+{
+    "TypeOfCollection": "roster",
+    "Pokemon": [
+        {
+            "abilities": "blaze",
+            "caught": true,
+            "types": ["fire"],
+            "moves": [
+                "growl",
+                "scratch",
+                "ember",
+                "smokescreen"
+            ],
+            "name": "charmander",
+            "hp": 42,
+            "attacklevel": 52,
+            "id": 3,
+            "evolution": "charmeleon",
+            "exp": 62,
+            "defenselevel": 43,
+            "speed": 65
+        },
+        {
+            "abilities": "overgrow",
+            "caught": true,
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "moves": [
+                "growth",
+                "leech seed",
+                "vine whip",
+                "tackle"
+            ],
+            "name": "bulbasaur",
+            "hp": 45,
+            "attacklevel": 49,
+            "id": 1,
+            "evolution": "ivysaur",
+            "exp": 1,
+            "defenselevel": 49,
+            "speed": 45
+        }
+    ]
+}

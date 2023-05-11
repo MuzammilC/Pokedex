@@ -1,0 +1,282 @@
+{
+    "TypeOfCollection": "database",
+    "Pokemon": [
+        {
+            "abilities": "Overgrow",
+            "caught": true,
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "moves": [
+                "growth",
+                "leech seed",
+                "vine whip",
+                "tackle"
+            ],
+            "name": "bulbasaur",
+            "hp": 45,
+            "attacklevel": 49,
+            "id": 1,
+            "evolution": "ivySaur",
+            "exp": 1,
+            "defenselevel": 49,
+            "speed": 45
+        },
+        {
+            "abilities": "Overgrow",
+            "caught": true,
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "moves": [
+                "tackle",
+                "growth",
+                "poison powder",
+                "seed bomb"
+            ],
+            "name": "ivysaur",
+            "hp": 60,
+            "attacklevel": 62,
+            "id": 2,
+            "evolution": "venusaur",
+            "exp": 142,
+            "defenselevel": 63,
+            "speed": 60
+        },
+        {
+            "abilities": "Blaze",
+            "caught": true,
+            "types": ["fire"],
+            "moves": [
+                "growl",
+                "scratch",
+                "ember",
+                "smokescreen"
+            ],
+            "name": "charmander",
+            "hp": 42,
+            "attacklevel": 52,
+            "id": 3,
+            "evolution": "charmeleon",
+            "exp": 62,
+            "defenselevel": 43,
+            "speed": 65
+        },
+        {
+            "abilities": "Blaze",
+            "caught": true,
+            "types": ["Fire"],
+            "moves": [
+                "ember",
+                "growl",
+                "fire fang",
+                "slash"
+            ],
+            "name": "charmeleon",
+            "hp": 58,
+            "attacklevel": 64,
+            "id": 4,
+            "evolution": "charizard",
+            "exp": 142,
+            "defenselevel": 58,
+            "speed": 80
+        },
+        {
+            "abilities": "Torrent",
+            "caught": true,
+            "types": ["water"],
+            "moves": [
+                "tackle",
+                "tail whip",
+                "water gun",
+                "rapid spin"
+            ],
+            "name": "squirtle",
+            "hp": 44,
+            "attacklevel": 48,
+            "id": 7,
+            "evolution": "wartortle",
+            "exp": 63,
+            "defenselevel": 65,
+            "speed": 43
+        },
+        {
+            "abilities": "shield dust",
+            "caught": true,
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "moves": [
+                "poison powder",
+                "tackle",
+                "string shot",
+                "bug bite"
+            ],
+            "name": "Caterpie",
+            "hp": 34,
+            "attacklevel": 45,
+            "id": 10,
+            "evolution": "Metapod",
+            "exp": 45,
+            "defenselevel": 45,
+            "speed": 55
+        },
+        {
+            "abilities": "h",
+            "caught": true,
+            "types": [
+                "e",
+                "f"
+            ],
+            "moves": [
+                "a",
+                "b",
+                "c",
+                "d"
+            ],
+            "name": "pika",
+            "hp": 46,
+            "attacklevel": 34,
+            "id": 34,
+            "evolution": "i",
+            "exp": 23,
+            "defenselevel": 45,
+            "speed": 32
+        },
+        {
+            "abilities": "lrgldk",
+            "caught": true,
+            "types": [
+                "white",
+                "black"
+            ],
+            "moves": [
+                "jump",
+                "kill",
+                "njksje",
+                "efsesf"
+            ],
+            "name": "Ash",
+            "hp": 100,
+            "attacklevel": 2323,
+            "id": 2332,
+            "evolution": "ktlkfgh",
+            "exp": 100000,
+            "defenselevel": 2332,
+            "speed": 2222
+        },
+        {
+            "abilities": "v",
+            "caught": true,
+            "types": [
+                "s",
+                "f"
+            ],
+            "moves": [
+                "a",
+                "b",
+                "c",
+                "d"
+            ],
+            "name": "Raichu",
+            "hp": 32,
+            "attacklevel": 23,
+            "id": 12,
+            "evolution": "nope",
+            "exp": 45,
+            "defenselevel": 35,
+            "speed": 23
+        },
+        {
+            "abilities": "balloon",
+            "caught": true,
+            "types": [
+                "water",
+                "ground"
+            ],
+            "moves": [
+                "bubbles",
+                "water gun",
+                "tackle",
+                "slash"
+            ],
+            "name": "Froakie",
+            "hp": 12,
+            "attacklevel": 44,
+            "id": 12,
+            "evolution": "Grenadier",
+            "exp": 42,
+            "defenselevel": 45,
+            "speed": 23
+        },
+        {
+            "abilities": " sfv",
+            "caught": true,
+            "types": [
+                "afrt",
+                "rgtes"
+            ],
+            "moves": [
+                "as",
+                "daf",
+                "saf",
+                "sher"
+            ],
+            "name": "Taurus",
+            "hp": 13,
+            "attacklevel": 56,
+            "id": 22,
+            "evolution": "none",
+            "exp": 34,
+            "defenselevel": 34,
+            "speed": 45
+        },
+        {
+            "abilities": "vn",
+            "caught": true,
+            "types": [
+                "rwk",
+                "rfnj"
+            ],
+            "moves": [
+                "vnjf",
+                "vfndj",
+                "mkff",
+                "dskj"
+            ],
+            "name": "Fletchling",
+            "hp": 65,
+            "attacklevel": 34,
+            "id": 57,
+            "evolution": "Fletchinder",
+            "exp": 24,
+            "defenselevel": 45,
+            "speed": 42
+        },
+        {
+            "abilities": "bn",
+            "caught": true,
+            "types": [
+                "shxjhd",
+                "whedxih"
+            ],
+            "moves": [
+                "shxj",
+                "wsh",
+                "wsjdix",
+                "wdhx"
+            ],
+            "name": "Thanos",
+            "hp": 10000000,
+            "attacklevel": 1000000000,
+            "id": 12,
+            "evolution": "thanos2",
+            "exp": 10000,
+            "defenselevel": 1,
+            "speed": 100000
+        }
+    ]
+}
